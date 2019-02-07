@@ -13,3 +13,7 @@ import ccmath
 ```
 
 should work.
+
+## Caveats
+
+Be very careful to clean up all auto-generated files, including `pycmath.c` after a botched compilation!
